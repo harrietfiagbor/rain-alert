@@ -1,7 +1,7 @@
 # rain-alert
 
 This is a project that communicates with the open Weather Map(OWM) onecall endpoint https://api.openweathermap.org/data/2.5/onecall to check through the hours of
-the day and send an SMS alert to your phone with the Message "It's going to rain today. Bring an umbrella ☔"
+the day and send an SMS alert to your phone with the message, "It's going to rain today. Bring an umbrella ☔"
 
 The Twilio api( a communication api for sms, voice, video)  was used for sending the SMS messages. This was done through importing the twilio rest API. https://www.twilio.com/
 
