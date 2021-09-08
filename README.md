@@ -1,4 +1,4 @@
-# rain-alert
+# Rain Alert Project using Openweather Map and Twilio API 
 
 This is a project that communicates with the open Weather Map(OWM) onecall endpoint https://api.openweathermap.org/data/2.5/onecall to check through the hours of
 the day and send an SMS alert to your phone with the message, "It's going to rain today. Bring an umbrella ☔"
