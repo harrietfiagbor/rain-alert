@@ -5,6 +5,6 @@ the day and send an SMS alert to your phone with the message, "It's going to rai
 
 The Twilio api( a communication api for sms, voice, video)  was used for sending the SMS messages. This was done through importing the twilio rest API. https://www.twilio.com/
 
-To find weather for your location, the latitude and longitude was used of the region is required. 
+To find weather for your location, the latitude and longitude was used of the region one stays in is required. 
 Which can easily be picked from https://www.latlong.net/
 
